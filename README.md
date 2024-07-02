@@ -31,6 +31,7 @@ Segue abaixo os arquivos com as minhas consultas: </p>
 Segue abaixo os arquivos com as minhas consultas: </p>
 <li>DER_db_loja_games</li>
 <li>db_loja_games</li>
+<br><br>
 
 Lançado em 2024.
 
