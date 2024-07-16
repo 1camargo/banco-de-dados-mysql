@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://i.imgur.com/oezjiF1.jpeg"  alt="Logo"  width="700"><br><br>
+<img src="https://i.imgur.com/oezjiF1.jpeg"  alt="Logo"  width="900"><br><br>
 </h1>
 
 <h1>Exercícios Práticos de MySQL - Generation Brasil!</h1>
